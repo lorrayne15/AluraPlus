@@ -1,17 +1,17 @@
 :root {
-    --branco-principal: #FFFFFF;
+    --branco-principal: #ffffff;
     color: mediumpurple;
     --botao-azul: #dd16f7;
     --cor-de-fundo: #00030C;
     --fonte-principal: 'Inter';
-    --botao-azul-hover: #0b5cbe;
+    --botao-azul-hover: #a00bbe;
 }
 
 
 body {
     background-color: var(--cor-de-fundo);
     color: var(--branco-principal);
-    font-family: var(--fonte-principal);
+    font-family: var(--botao-azul-hover)
     font-size: 16px;
     font-weight: 400;
 }
