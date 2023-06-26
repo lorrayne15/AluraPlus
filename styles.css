@@ -41,7 +41,7 @@ body {
     background-color: var(--botao-azul);
     border-radius: 5px;
     padding: 1em;
-    color: var(--branco-principal);
+    color: var(--cinza-secundario)
     display: block;
     text-decoration: none;
 
